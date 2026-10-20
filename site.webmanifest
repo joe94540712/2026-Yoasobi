@@ -1,0 +1,25 @@
+{
+  "id": "./index.html",
+  "name": "2026 關西秋旅｜京都・宇治・大阪",
+  "short_name": "關西秋旅",
+  "lang": "zh-Hant",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#F7F6F2",
+  "theme_color": "#232D3C",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
